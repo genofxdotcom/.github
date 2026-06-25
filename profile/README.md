@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./genofx.png" alt="GenofX" width="120" />
+  <img src="../genofx.png" alt="GenofX" width="120" />
 </p>
 
 <h1 align="center">GenofX</h1>
