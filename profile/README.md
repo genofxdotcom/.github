@@ -1,67 +1,41 @@
 <p align="center">
-  <img src="../genofx.png" alt="GenofX" width="120" />
+  <img src="../genofx.png" width="96" alt="GenofX" />
 </p>
 
 <h1 align="center">GenofX</h1>
 
 <p align="center">
-  A free cloud to host your personal software and web apps.
+  A free cloud for your personal software.
+</p>
+
+<p align="center">
+  <a href="https://genofx.com">Website</a>
+  ·
+  <a href="https://github.com/genofxdotcom">GitHub</a>
+  ·
+  <a href="https://x.com/genofxdotcom">X</a>
+  ·
+  <a href="https://instagram.com/genofxdotcom">Instagram</a>
 </p>
 
 <br>
 
-## About
-
-GenofX is building a cloud operating system designed for developers, builders, and creators who want a simple place to run their software.
-
-Instead of managing servers, deployments, and infrastructure, users can launch and access their applications from a personal cloud environment.
-
-Our goal is simple:
-
-> Make personal cloud computing accessible to everyone.
-
----
-
 ## Cloud OS
 
-GenofX Cloud OS provides a browser-based environment where users can run and manage their software from anywhere.
-
-Features under development include:
+Run, manage, and access your software from anywhere.
 
 * Personal cloud environments
 * Web app hosting
-* Software deployment
-* Persistent cloud storage
-* Workspace management
-* Developer-focused tooling
+* Persistent storage
+* Browser-based access
 
----
-
-## Philosophy
-
-We believe personal software should be:
-
-* Accessible
-* Affordable
-* Simple
-* Available from anywhere
-
-Cloud infrastructure should feel personal, not enterprise.
-
----
+<br>
 
 ## Status
 
-GenofX Cloud OS is currently under active development.
+🚧 Currently building GenofX Cloud OS
 
-Follow the journey:
-
-* Website: https://genofx.com
-* GitHub: https://github.com/genofxdotcom
-* X: https://x.com/genofxdotcom
-* Instagram: https://instagram.com/genofxdotcom
-
----
+<br>
 
 <p align="center">
   Built for developers.
