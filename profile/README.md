@@ -5,7 +5,7 @@
 <h1 align="center">GenofX</h1>
 
 <p align="center">
-  A free cloud for your personal software.
+  An AI cloud for your personal software.
 </p>
 
 <p align="center">
@@ -16,27 +16,4 @@
   <a href="https://x.com/genofxdotcom">X</a>
   ·
   <a href="https://instagram.com/genofxdotcom">Instagram</a>
-</p>
-
-<br>
-
-## Cloud OS
-
-Run, manage, and access your software from anywhere.
-
-* Personal cloud environments
-* Web app hosting
-* Persistent storage
-* Browser-based access
-
-<br>
-
-## Status
-
-🚧 Currently building GenofX Cloud OS
-
-<br>
-
-<p align="center">
-  Built for developers.
 </p>
